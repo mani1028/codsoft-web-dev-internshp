@@ -1,1 +1,1 @@
-# codsoft-web-dev-internshp
+#IT IS A 1-MONTH WEB DEVELOPMENT INTERSHIP PROVIDED BY CODSOFT.
